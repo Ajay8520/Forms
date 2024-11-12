@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    
+  </head>
+  <body bgcolor="pink">
+      <form>
+       <table>
+          <tr>
+            <td>
+              Your Name
+            </td>
+            <td>
+       <input type="text">
+            </td>
+          </tr>
+           <tr>
+            <td>
+              Your Email
+            </td>
+            <td>
+       <input type="Email">
+            </td>
+          </tr>
+           <tr>
+            <td>
+              Your Age
+            </td>
+            <td>
+       <input type="Number">
+            </td>
+          </tr>
+           <tr>
+            <td>
+              Your Phone Number
+            </td>
+            <td>
+       <input type="number">
+            </td>
+          </tr>
+           <tr>
+            <td>
+              Your Git Repo
+            </td>
+            <td>
+       <input type="url">
+            </td>
+          </tr>
+           <tr>
+            <td>
+              Your DOB
+            </td>
+            <td>
+       <input type="Date">
+            </td>
+          </tr>
+           <tr>
+            <td>
+              Your Time of Birth
+            </td>
+            <td>
+       <input type="Time">
+            </td>
+          </tr>
+           <tr>
+            <td>
+              Your Password
+            </td>
+            <td>
+       <input type="Password">
+            </td>
+          </tr>
+           <tr>
+            <td>
+              Your Gender
+            </td>
+            <td>
+       <input type="radio">Male
+       <input type="radio">Female
+            </td>
+          </tr>
+           <tr>
+            <td>
+              Know Languages
+            </td>
+            <td>
+       <input type="checkbox">Telugu
+       <input type="checkbox">Hindi
+       <input type="checkbox">English
+            </td>
+          </tr>
+         <tr>
+           <td>
+             Your Degree
+           </td>
+           <td>
+           <select>
+          <option>UG</option>
+          <option>PG</option>
+          <option>Ph.D</option>
+           </select>
+           </td>
+         </tr>
+         <tr>
+           <td>
+             Your <address>
+               
+             </address>
+           </td>
+           <td>
+             <label>   
+             <textarea  rows="8" cols="9"></textarea>
+           </td>
+         </tr>
+         <td>
+            <input type="submit">
+         </td>
+         <td>
+            <input type="reset">
+         </td>
+       </table>  
+      </form>
+      
+  </body>
+</html>
